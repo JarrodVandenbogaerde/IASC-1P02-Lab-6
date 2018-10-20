@@ -1,0 +1,32 @@
+#content1 {
+  float:left;
+  position:relative;
+  top:20px;
+  background-color:blue;
+  height:300px;
+  width:300px;
+}
+
+#content2 {
+  float:right;
+  position:relative;
+  top:20px;
+  background-color:red;
+  height:300px;
+  width:300px;
+}
+
+#content3 {
+  clear:both;
+  position:relative;
+  top:20px;
+  margin:0 auto;
+  background-color:yellow;
+  height:300px;
+  width:300px;
+}
+
+#wrapper{
+	width:1000px;
+	margin:0 auto;
+	background-color:green;
